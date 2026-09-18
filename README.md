@@ -67,3 +67,25 @@ This project was created to practice and improve my JavaScript skills, especiall
 - Responsive web design
 
 ---
+
+## 🔮 Future Improvements
+
+Some possible improvements for this project include:
+
+- ✏️ Add an edit task feature
+- 🔍 Add task search functionality
+- 🗂️ Add task categories
+- 📅 Add due dates
+- 🎨 Add different themes
+- 🧹 Add a "Clear All Tasks" button
+- 📊 Add task statistics such as completed and remaining tasks
+
+---
+
+## 👨‍💻 Author
+
+Abdul Hannan
+
+Built with HTML, CSS & JavaScript.
+
+⭐ If you like this project, consider giving the repository a star!
