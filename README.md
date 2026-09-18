@@ -52,3 +52,18 @@ This means:
 
 ---
 
+## 🎯 Purpose of the Project
+
+This project was created to practice and improve my JavaScript skills, especially:
+
+- DOM manipulation
+- Event handling
+- Working with Local Storage
+- Adding and removing HTML elements dynamically
+- Managing completed and uncompleted states
+- Handling user input
+- JavaScript arrays and objects
+- Saving and retrieving data from the browser
+- Responsive web design
+
+---
